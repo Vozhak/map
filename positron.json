@@ -26,7 +26,7 @@
       "url": "http://localhost:3000/osm-2020-02-10-v3.11_europe"
     }
   },
-  "sprite": "https://tiles.basemaps.cartocdn.com/gl/positron-gl-style/sprite",
+  "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty.json",
   "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=KDhMfHvorAFkFe64wlZb",
   "layers": [
     {
